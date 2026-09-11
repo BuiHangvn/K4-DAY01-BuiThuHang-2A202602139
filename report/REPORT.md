@@ -59,7 +59,7 @@ Nguồn evidence: `segmentation_predictions.json` và `visuals/segmentation_pred
 
 ## 5. An toàn dữ liệu
 
-- **Một quy tắc bảo vệ dữ liệu:** Chỉ sử dụng dữ liệu được chương trình cung cấp và đúng phạm vi bài lab; không tự ý chia sẻ, tải lên dịch vụ bên ngoài hoặc đưa dữ liệu cá nhân/nhạy cảm vào report và output.
+- **Một quy tắc bảo vệ dữ liệu:** Chỉ sử dụng dữ liệu được chương trình cung cấp, cho phép sử dụng và đúng phạm vi bài lab; không tự ý chia sẻ, tải lên dịch vụ bên ngoài hay bên thứ ba hoặc đưa dữ liệu cá nhân/nhạy cảm vào report và output.
 - **Nếu thấy ảnh hoặc dữ liệu không đúng phạm vi, tôi sẽ dừng và báo cho:** GV/Lab Coach phụ trách bài thực hành trước khi tiếp tục xử lý.
 
 ## 6. Danh sách bằng chứng
@@ -67,9 +67,9 @@ Nguồn evidence: `segmentation_predictions.json` và `visuals/segmentation_pred
 - [x] `classification_predictions.json`
 - [x] `detection_predictions.json`
 - [x] `segmentation_predictions.json`
-- [ ] `IMAGE_ATTRIBUTION.md`
-- [ ] `visuals/classification_top5.png`
-- [ ] `visuals/detection_predictions.png`
-- [ ] `visuals/segmentation_prediction.png`
-- [ ] Ô validation cuối notebook báo `PASS`.
+- [x] `IMAGE_ATTRIBUTION.md`
+- [x] `visuals/classification_top5.png`
+- [x] `visuals/detection_predictions.png`
+- [x] `visuals/segmentation_prediction.png`
+- [x] Ô validation cuối notebook báo `PASS`.
 - [x] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output.
